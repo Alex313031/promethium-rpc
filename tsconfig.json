@@ -17,6 +17,6 @@
 
     "outDir": "./build",
 
-    "baseUrl": "packages"
+    "baseUrl": "./"
   }
 }

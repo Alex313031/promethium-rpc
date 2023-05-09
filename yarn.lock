@@ -2008,10 +2008,9 @@ ecc-jsbn@~0.1.1:
     jsbn "~0.1.0"
     safer-buffer "^2.1.0"
 
-electron@^17.0.0:
+"electron@git+https://github.com/castlabs/electron-releases.git#469547a":
   version "17.4.11"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-17.4.11.tgz#82899a44336bf8f1af15c6312c7f51ae3f4a519b"
-  integrity sha512-mdSWM2iY/Bh5bKzd5drYS3mf8JWyR9P9UXZA2uLEZ+1fhgLEVkY9qu501QHoMsKlNwgn96EreQC+dfdQ75VTcA==
+  resolved "git+https://github.com/castlabs/electron-releases.git#469547ad197e110f4948a4ab15e39e9ac83197e2"
   dependencies:
     "@electron/get" "^1.13.0"
     "@types/node" "^14.6.2"
