@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@wexond/rpc-core": "1.0.4",
-    "electron": "git+https://github.com/castlabs/electron-releases.git#2248497"
+    "electron": "git+https://github.com/castlabs/electron-releases.git#aa601b2"
   },
   "peerDependencies": {
     "@wexond/rpc-core": "1.0.4"
