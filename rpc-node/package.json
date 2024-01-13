@@ -20,9 +20,9 @@
     "clean": "rimraf build"
   },
   "devDependencies": {
-    "@wexond/rpc-core": "1.0.4"
+    "@wexond/rpc-core": "file:../rpc-core"
   },
   "peerDependencies": {
-    "@wexond/rpc-core": "1.0.4"
+    "@wexond/rpc-core": "file:../rpc-core"
   }
 }
