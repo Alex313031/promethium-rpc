@@ -1,6 +1,6 @@
 {
   "name": "@wexond/rpc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Type-safe inter-process communication for Promethium Browser.",
   "private": true,
   "author": "Alex313031 <alex313031@gmail.com>",

@@ -1,6 +1,6 @@
 {
   "name": "@wexond/rpc-electron",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Type-safe inter-process communication for Electron.",
   "author": "Alex313031 <alex313031@gmail.com>",
   "license": "MIT",
@@ -31,8 +31,5 @@
   "devDependencies": {
     "@wexond/rpc-core": "file:../rpc-core",
     "electron": "git+https://github.com/castlabs/electron-releases.git#aa601b2"
-  },
-  "peerDependencies": {
-    "@wexond/rpc-core": "file:../rpc-core"
   }
 }

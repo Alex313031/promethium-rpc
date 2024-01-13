@@ -1,6 +1,6 @@
 {
   "name": "@wexond/rpc-node",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Type-safe communication between message ports from Node.js worker_threads module.",
   "author": "Alex313031 <alex313031@gmail.com>",
   "license": "MIT",
@@ -20,9 +20,6 @@
     "clean": "rimraf build"
   },
   "devDependencies": {
-    "@wexond/rpc-core": "file:../rpc-core"
-  },
-  "peerDependencies": {
     "@wexond/rpc-core": "file:../rpc-core"
   }
 }

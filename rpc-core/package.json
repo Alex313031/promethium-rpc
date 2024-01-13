@@ -1,6 +1,6 @@
 {
   "name": "@wexond/rpc-core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Core components for type-safe inter-process communication.",
   "author": "Alex313031 <alex313031@gmail.com>",
   "license": "MIT",

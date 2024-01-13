@@ -1076,7 +1076,7 @@
   integrity sha512-sL/cEvJWAnClXw0wHk85/2L0G6Sj8UB0Ctc1TEMbKSsmpRosqhwj9gWgFRZSrBr2f9tiXISwNhCPmlfqUqyb9Q==
 
 "@wexond/rpc-core@file:rpc-core":
-  version "1.0.4"
+  version "1.0.5"
 
 JSONStream@^1.0.4:
   version "1.3.5"
